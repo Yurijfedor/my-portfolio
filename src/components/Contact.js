@@ -35,7 +35,7 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: 'opacity(0.7)' }}
-            src="https://www.google.com/maps/embed/v1/place?q=Ivashkivtsi,+Вінницька+область,+Україна&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
+            src="https://www.google.com/maps/embed/v1/place?q=97+warren+st+new+york+city&key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">
@@ -62,7 +62,7 @@ export default function Contact() {
           </div>
         </div>
         <form
-          netlify
+          // netlify
           name="contact"
           onSubmit={handleSubmit}
           className="lg:w-1/3 md:w-1/2 flex flex-col md:ml-auto w-full md:py-8 mt-8 md:mt-0"
