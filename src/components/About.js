@@ -11,9 +11,12 @@ export default function About() {
             apps.
           </h1>
           <p className="mb-8 leading-relaxed">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-            laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-            Laborum, voluptas natus?
+            I am a young promising front-end developer - self-confident,
+            result-oriented, with a great desire to work and benefit my company,
+            as well as improve my skills. I have mastered HTML, Sass,
+            JavaScript, and React.js very well. In addition, working on team
+            projects allowed me to confidently use GitHub, as well as work in a
+            team on the principles of Agile methodology.
           </p>
           <div className="flex justify-center">
             <a
@@ -32,9 +35,9 @@ export default function About() {
         </div>
         <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
           <img
-            className="object-cover object-center rounded"
+            className="w-6/12 h-6/12 object-cover object-center rounded-full"
             alt="hero"
-            src="./coding.svg"
+            src="./my_photo.jpg"
           />
         </div>
       </div>

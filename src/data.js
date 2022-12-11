@@ -1,60 +1,66 @@
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: 'Filmoteka',
+    subtitle: 'HTML, SASS, JS, REST API, Parcel',
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-1.gif",
-    link: "https://reactbootcamp.com",
+      'Application for choosing a movie.Team project. Role: developer (pagination). Deploy project on Github.',
+    image: './filmoteka.gif',
+    link: 'https://dmytrik.github.io/filmoteka-js/library.html',
   },
   {
-    title: "React Tracks",
-    subtitle: "React and Python",
+    title: 'Ice Cream',
+    subtitle: 'HTML, SASS, JS, Parcel',
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-2.gif",
-    link: "https://reactbootcamp.com",
+      'One page responsive website. Team project. Role: developer (Products section) Deploy to GitHub.',
+    image: './ice_cream.gif',
+    link: 'https://olehstarko.github.io/final-HTML-CSS-project/',
   },
   {
-    title: "DevChat",
-    subtitle: "React and Firebase",
+    title: 'Phonebook',
+    subtitle: 'React, Redux, Redux-Persist, Axios, AsyncThunk, MUI, Routes',
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+      'Application for storing, editing and filtering contacts. Individual project.',
+    image: './phonebook.gif',
+    link: 'https://yurijfedor.github.io/goit-react-hw-08-phonebook',
   },
   {
-    title: "Epic Todo App",
-    subtitle: "React Hooks",
+    title: 'Web studio',
+    subtitle: 'HTML, SASS, Parcel',
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      'A website with a responsive layout. Demonstrates effective use of semantic cross-browser layout. Individual project',
+    image: './web_studio.gif',
+    link: 'https://yurijfedor.github.io/goit-markup-hw-08/',
   },
 ];
 
 export const testimonials = [
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
-    name: "Jesse Hicks",
-    company: "Zoozle",
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.',
+    image: 'https://randomuser.me/api/portraits/men/1.jpg',
+    name: 'Jesse Hicks',
+    company: 'Zoozle',
   },
   {
     quote:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-    image: "https://randomuser.me/api/portraits/men/94.jpg",
-    name: "Ruben Alvarez",
-    company: "Dooble.io",
+      'Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.',
+    image: 'https://randomuser.me/api/portraits/men/94.jpg',
+    name: 'Ruben Alvarez',
+    company: 'Dooble.io',
   },
 ];
 
 export const skills = [
-  "JavaScript",
-  "React",
-  "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  'HTML',
+  'SASS/CSS',
+  'JavaScript',
+  'React',
+  'Redux',
+  'Redux-Persist',
+  'Routes',
+  'Node',
+  'Tailwind CSS',
+  'Material UI',
+  'Parcel',
+  'Webpack',
 ];
