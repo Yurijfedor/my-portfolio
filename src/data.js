@@ -1,5 +1,14 @@
 export const projects = [
   {
+    title: 'Pet support',
+    subtitle:
+      'React, Redux, Redux-Persist, Axios, styled-components, styled-system, Routes',
+    description:
+      'Application demonstrates effective use of the aforementioned technologies. Individual project',
+    image: './pet_support.gif',
+    link: 'https://tizenmile.github.io/pets-support-project-frontend/#/',
+  },
+  {
     title: 'Filmoteka',
     subtitle: 'HTML, SASS, JS, REST API, Parcel',
     description:
@@ -30,6 +39,15 @@ export const projects = [
       'A website with a responsive layout. Demonstrates effective use of semantic cross-browser layout. Individual project',
     image: './web_studio.gif',
     link: 'https://yurijfedor.github.io/goit-markup-hw-08/',
+  },
+  {
+    title: 'Job searsh',
+    subtitle:
+      'React, Redux, Redux-Persist, TypeScript, Axios, styled-components, styled-system, Routes',
+    description:
+      'SPA application on React.js with responsive design. Demonstrates effective use of the aforementioned technologies. Individual project',
+    image: './job_search.gif',
+    link: 'https://yurijfedor.github.io/test-fe-allab/',
   },
 ];
 
